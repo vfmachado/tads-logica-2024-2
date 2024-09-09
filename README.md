@@ -22,34 +22,24 @@ funções.
 
 * Semana 04 - Controle de fluxo - estruturas condicionais
 
-* Semana 05 - Controle de fluxo - estruturas condicionais
+* Semana 05 - Avaliação I
 
-* Semana 06 - Avaliação I
+* Semana 06 - Controle de Fluxo - estruturas de repetição
 
 * Semana 07 - Controle de Fluxo - estruturas de repetição
 
-* Semana 08 - Controle de Fluxo - estruturas de repetição
+* Semana 08 - Avaliação II
 
-* Semana 09 - Avaliação II
+* Semana 09 - Recuperação I
 
-* Semana 10 - Recuperação I
+* Semana 10 - Vetores I
 
-* Semana 11 - Vetores I
+* Semana 11 - Vetores II
 
-* Semana 12 - Vetores II
+* Semana 12 - Matrizes I
 
-* Semana 13 - Matrizes I
+* Semana 13 - Matrizes II
 
-* Semana 14 - Matrizes II
+* Semana 14 - Avaliação III e Trabalho Final
 
-* Semana 15 - Funções
-
-* Semana 16 - Revisão e Trabalho Final
-
-* Semana 17 - Avaliação III
-
-* Semana 18 - Recuperação II
-
-* Semana 19 - Revisão pré-exame
-
-* Semana 20 - Exame
+* Semana 15 - Recuperação II
