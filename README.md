@@ -12,6 +12,10 @@ Entrada e saída. Expressões numéricas e booleanas, controle de fluxo,
 condicionais e estruturas de repetições. Noções de vetores, matrizes e
 funções.
 
+## VIDEOS DE APOIO
+
+https://www.youtube.com/playlist?list=PLjbn9ZZQhBtI1Qw12AK-S-7PxG0lAWhe5
+
 # Aulas
 
 * Semana 01 - Introdução a disciplina, apresentação, o que vamos e não vamos fazer. Algoritmos, linguagem de programação, IDE, compilando um programa
