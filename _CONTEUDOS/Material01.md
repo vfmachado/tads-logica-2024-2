@@ -1,5 +1,5 @@
 
-# Semana 01
+# 01
 
 Introdução a disciplina, apresentação, o que vamos e não vamos fazer. Algoritmos, linguagem de programação, IDE, compilando um programa
 
