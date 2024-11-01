@@ -1,0 +1,59 @@
+EXERCICIO EM AULA
+ USANDO FOR MOSTRAR OS NUMEROS
+    * DE 1 A 10
+    * PARES DE 100 A 120
+    * IMPARES DE 50 A 30
+    * MULTIPLOS DE 3 ENTRE DOIS NUMEROS FORNECIDOS PELO USUARIO
+        por exemplo, 2 e 10
+            3  6   9
+        
+    * DIVISORES DE UM NUMERO N
+    
+    * TABUADA DE UM NUMERO DE 1 A 10
+        POR EXEMPLO, TABUADA DO 8
+        1 x 8 = 8
+        2 x 8 = 16
+        3 x 8 = 24
+        4 x 8 = 32
+        5 x 8 = 40
+        6 x 8 = 48
+        7 x 8 = 56
+        8 x 8 = 64
+        9 x 8 = 72
+        10 x 8 = 80
+    
+    * DECOMPOSICAO EM FATORES PRIMOS
+        120 = 2 x 2 x 2 x 3 x 5
+        32 = 2 x 2 x 2 x 2 x 2
+
+        120 | 2
+         60 | 2
+         30 | 2
+         15 | 3
+          5 | 5
+          1 |
+
+
+    * FIGURAS
+        DESENHAR UM RETANGULO CHEIO DE DIMENSOES W X H
+            5 X 4  
+            * * * * *
+            * * * * *
+            * * * * *
+            * * * * *
+        DESENHAR O MESMO RETANGULO VASADO
+            * * * * *
+            *       *
+            *       *
+            * * * * *
+
+        DESENHAR UM LOSANGULO
+                  *
+                * * *
+              * * * * *
+                * * * 
+                  * 
+
+
+
+
