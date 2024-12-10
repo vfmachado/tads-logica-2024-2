@@ -1,0 +1,32 @@
+EX 01
+
+    v1 [1, 2, 3, 4, 5]
+
+    v2 [ 2, 3, 4]       => sim (todos elementos de v2 estao em v1)
+
+    v3 [ 0, 1, 2]       => nao (0 nao esta em v1)
+
+    para cada um dos valores de v2, verificar cada um dos valores de v1
+
+        for () {
+            for () {
+                if (v2[j] == v1[i]) {
+
+                }
+            }
+        }
+
+
+EX 02
+
+    v1 [1, 2, 4, 5, 10]
+    v2 [3, 6, 8, 9, 11]
+
+    result = [1, 2, 3, 4, 5, 6, 8, 9, 10, 11]
+
+    Solucao facil O(nlogn):
+        junta os vetores em um vetor maior
+        ordena o vetor maior
+
+    Solucao legal O(n):
+        sabendo que ambos vetores ja estao ordenados, junta os vetores ja ordenando os elementos
